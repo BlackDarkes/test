@@ -1,0 +1,5 @@
+*.log
+!impotent.log
+
+cache
+err.txt
